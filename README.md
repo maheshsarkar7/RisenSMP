@@ -15,6 +15,6 @@ Download on [SpigotMC](https://www.spigotmc.org/resources/awakensmp-plugin.10057
 
 Join the [Discord](https://refinedtech.dev/discord)
 
-Follow on [Twitter](https://refinedtech.dev/twitter)
+[Twitter](https://refinedtech.dev/twitter)
 
 For any bugs please report them [here](https://refinedtech.dev/discord)
